@@ -38,6 +38,7 @@ This project is simple by design and mostly consists of:
 
 * [`training`](./training): scripts to fine-tune and quantize models.
 * [`kaggle-solution`](kaggle-solution.ipynb): a notebook with the SC-TIR inference code we used during Kaggle submissions.
+* [`docs/employee_attendance_task_tool.md`](./docs/employee_attendance_task_tool.md): 产品级工具（员工打卡、任务进度、报销管理）的端到端设计方案示例。
 
 ## Installation instructions
 
